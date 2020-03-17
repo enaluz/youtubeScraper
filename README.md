@@ -9,7 +9,7 @@
 [TODO](#TODO)
 
 ## Purpose
-A Youtube Scraper for video query results and video page metadata. See example output 
+A Youtube Scraper for video query results and video page metadata.
 
 ## Installation
 1. Run `pip3 install bs4 selenium`

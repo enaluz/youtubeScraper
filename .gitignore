@@ -1,6 +1,7 @@
 *.csv
 *.json
 *.txt
+!requirements.txt
 __pycache__/
 .DS_Store
 sandbox.py
