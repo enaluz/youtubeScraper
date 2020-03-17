@@ -66,5 +66,4 @@ Ensure it's installed in your os' default path. On a Mac, this is usually `~/usr
 
 
 ## TODO
-- Scrape comments
-- Remove `truncatedDescription`
+None
