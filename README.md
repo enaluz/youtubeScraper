@@ -12,7 +12,7 @@
 A Youtube Scraper for video query results and video page metadata.
 
 ## Installation
-1. Run `pip3 install bs4 selenium`
+1. Run `pip3 install -r requirements.txt`
 2. Install [Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) for the version of 
 Chrome you have installed in your computer. 
 
